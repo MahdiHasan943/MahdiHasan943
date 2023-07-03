@@ -1,17 +1,25 @@
 
 
 
-<a align="center">![6ogplc](https://user-images.githubusercontent.com/106563815/182020171-9283c947-8af8-427f-b00e-5bc4cb30ca1d.gif)</a>
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
-<h3 align="center">MERN Stack Web Developer and react specialist</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mahdihas) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and react specialist. 
+Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, CSS, React , Next.js, JavaScript. Passionate about crafting visually appealing and interactive web experiences.
 Knock me on facebook: https://www.facebook.com/mahdi.tuhin.7
 
-Skills: BOOTSTRAP/ Tailwind/ NODE.JS / REACT / JS / HTML / CSS
+Skills: HTML
+CSS
+React.js
+Next.js
+JavaScript
+Node.js
+MongoDB
+Express.js
+Mongoose
+Firebase
  
 
 - 🔭 I’m currently working on [Programing Hero](https://www.programming-hero.com/)
