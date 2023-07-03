@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, C
 Knock me on facebook: https://www.facebook.com/mahdi.tuhin.7
 
 Skills: HTML
-CSS /( tailwind,bootstrape5)
+CSS ( tailwind,bootstrape5) /
 React.js /
 Next.js /
 JavaScript /
