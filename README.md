@@ -11,30 +11,30 @@ Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, C
 Knock me on facebook: https://www.facebook.com/mahdi.tuhin.7
 
 Skills: HTML
-CSS
-React.js
-Next.js
-JavaScript
-Node.js
-MongoDB
-Express.js
-Mongoose
-Firebase
+CSS /( tailwind,bootstrape5)
+React.js /
+Next.js /
+JavaScript /
+Node.js /
+MongoDB /
+Express.js /
+Mongoose /
+Firebase/
+next-auth/
+Framer-motion 
  
 
-- 🔭 I’m currently working on [Programing Hero](https://www.programming-hero.com/)
+- 🔭 I’m currently working on fiverr
 
-- 🌱 I’m currently learning **JS, Teailwind, React**
+- 🌱 I’m currently learning ** Typescript , reactNative , Three.js , Mysql **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahdihas](https://github.com/Mahdihas)
+- 👨‍💻 All of my projects are available at  [(https://github.com/MahdiHasan943)
 
-- 📝 I regularly write articles on [(https://www.youtube.com/)
+- 💬 Ask me about ** HTML5, CSS3, JS, react, next.js , next-auth , firebase , mongodb **
 
-- 💬 Ask me about **HTML5, CSS3, JS, Tailwind, Bootstrap**
+- 📫 How to reach me **https://github.com/MahdiHasan943**
 
-- 📫 How to reach me **https://github.com/Mahdihas**
-
-- 📄 All About Me:[ https://www.linkedin.com/in/mahdi-hasan-949b80239/]https://github.com/Mahdihas)
+- 📄 All About Me:[ https://www.linkedin.com/in/mahdi-hasan-949b80239/]https://github.com/MahdiHasan943)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
