@@ -27,7 +27,7 @@ Back-End  --Node.js ,Express.js ,MongoDB/Mongoose,Firebase, next-auth,jwt, strip
 
 - 📫 How to reach me **https://github.com/MahdiHasan943**
 
-- 📄 All About Me:[ https://www.linkedin.com/in/mahdi-hasan-949b80239/]https://github.com/MahdiHasan943)
+- 📄 All About Me:[ https://www.linkedin.com/in/mahdi-hasan-949b80239/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
