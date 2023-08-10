@@ -7,21 +7,14 @@
 
 ![Profile views](https://gpvc.arturio.dev/mahdihas) 
 
-Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, CSS, React , Next.js, JavaScript. Passionate about crafting visually appealing and interactive web experiences.
-Knock me on facebook: https://www.facebook.com/mahdi.tuhin.7
+Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, CSS,JavaScript, React and Next.js  . Passionate about crafting visually appealing and interactive web experiences.
+Knock me on Twitter : +8801843412068 or
+facebook: https://www.facebook.com/mahdi.tuhin.7
+<h3>Skills</h3>
 
-Skills: HTML
-CSS ( tailwind,bootstrape5) /
-React.js /
-Next.js /
-JavaScript /
-Node.js /
-MongoDB /
-Express.js /
-Mongoose /
-Firebase/
-next-auth/
-Framer-motion 
+Front-End --- HTML,CSS(tailwind,bootstrape) javascript,react.js and next.js , framermotion.
+Back-End  --Node.js ,Express.js ,MongoDB/Mongoose,Firebase, next-auth,jwt, stripe etc .
+
  
 
 - 🔭 I’m currently working on fiverr
