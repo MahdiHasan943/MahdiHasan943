@@ -12,7 +12,7 @@ Knock me on Twitter : +8801843412068 or
 facebook: https://www.facebook.com/mahdi.tuhin.7
 <h3>Skills</h3>
 
-Front-End --- HTML,CSS(tailwind,bootstrape) javascript,react.js and next.js , framermotion. <br/>
+Front-End --- HTML,CSS(tailwind,bootstrape) javascript,react.js and next.js , framer-motion. <br/>
 Back-End  --Node.js ,Express.js ,MongoDB/Mongoose,Firebase, next-auth,jwt, stripe etc .
 
  
