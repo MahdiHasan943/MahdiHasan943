@@ -1,7 +1,7 @@
 
 
 
-<a align="center">![6ogplc](https://user-images.githubusercontent.com/106563815/182020171-9283c947-8af8-427f-b00e-5bc4cb30ca1d.gif)</a>
+<a align="center">![6ogplc](https://github.com/MahdiHasan943/MahdiHasan943/blob/main/Blue%20Pink%20Gradient%20Modern%20Web%20Developer%20Twitter%20Header.png)</a>
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
