@@ -1,13 +1,9 @@
 
 
 
-<a align="center">![6ogplc](https://github.com/MahdiHasan943/MahdiHasan943/blob/main/Blue%20Pink%20Gradient%20Modern%20Web%20Developer%20Twitter%20Header.png)</a>
+<a align="center">![6ogplc](https://github.com/MahdiHasan943/MahdiHasan943/blob/main/dddd.png)</a>
 
-<h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
-
-![Profile views](https://gpvc.arturio.dev/mahdihas) 
-
+<h1 align="center">Hi 👋, </h1>
 Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, CSS,JavaScript, React and Next.js  . Passionate about crafting visually appealing and interactive web experiences.
 Knock me on Twitter : +8801843412068 or
 facebook: https://www.facebook.com/mahdi.tuhin.7
