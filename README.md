@@ -51,18 +51,4 @@ Back-End  --Node.js , Express.js , MongoDB/Mongoose, Firebase, next-auth , jwt ,
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
-g" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdihas&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Mahidhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdihas&theme=tokyonight&show_icons=true)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahdihas&theme=tokyonight&hide_border=true&border=DD2727&stroke=DD2727)](https://git.io/streak-stats)
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdihas)  
