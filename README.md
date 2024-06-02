@@ -1,7 +1,7 @@
 
 
 
-<a align="center">![6ogplc](https://github.com/MahdiHasan943/MahdiHasan943/blob/main/Screenshot_4.png)</a>
+<a align="center">![6ogplc](https://github.com/MahdiHasan943/MahdiHasan943/blob/main/Screenshot_1.png)</a>
 
 <h1 align="center">Hi 👋, </h1>
 Welcome to my GitHub profile. I'm a full-stack developer specializing in HTML, CSS,JavaScript, React and Next.js  . Passionate about crafting visually appealing and interactive web experiences.
